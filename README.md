@@ -21,4 +21,12 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+Set Up App: 
+
+* rails db:setup
+
+* rails db:seed
+
+* npm install
+
+* bin/dev for run the server
